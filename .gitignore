@@ -34,3 +34,4 @@ logs/
 docker-compose.override.yml
 
 *.parquet
+*.json.generated
